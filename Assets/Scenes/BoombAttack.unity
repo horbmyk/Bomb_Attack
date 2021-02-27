@@ -1930,7 +1930,7 @@ MonoBehaviour:
   - {fileID: 1307060293}
   - {fileID: 107127617}
   - {fileID: 78397934}
-  Explosion: {fileID: 0}
+  explosion: {fileID: 0}
 --- !u!1 &1155790470
 GameObject:
   m_ObjectHideFlags: 0
@@ -3216,7 +3216,7 @@ MonoBehaviour:
   - {fileID: 1021195243}
   - {fileID: 715367189}
   - {fileID: 1539033218}
-  Explosion: {fileID: 654472058083971816, guid: 7aa1ba4f06070804ba4528bc98505df8,
+  explosion: {fileID: 4819374731979237638, guid: 7aa1ba4f06070804ba4528bc98505df8,
     type: 3}
 --- !u!4 &1887167161
 Transform:
@@ -3226,7 +3226,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1887167159}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 626.8558, y: 691.62805, z: 0.016306316}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

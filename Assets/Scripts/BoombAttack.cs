@@ -99,7 +99,7 @@ public class BoombAttack : MonoBehaviour
                         )
                     {
                         PoolShootBomb[i].Explosion.Play();
-                        Destroy(PoolShootBomb[i].Bomb,0.5f);
+                        Destroy(PoolShootBomb[i].Bomb,0.25f);
                         PoolShootBomb.Remove(PoolShootBomb[i]);
                         break;
                     }
